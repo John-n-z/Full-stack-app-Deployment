@@ -11,4 +11,3 @@ export JWT_SECRET=mysecretstring
 export URL=http://john0790-3674-9876.s3-website-us-east-1.amazonaws.com
 
 
-eb list && eb use udagram-api-dev &&
