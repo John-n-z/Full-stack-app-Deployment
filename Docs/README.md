@@ -17,6 +17,8 @@ This application is provided from Udacity to be hosted into AWS with Pipeline us
 - **Angular** -  Single Page Application Framework
 - **Node**  - Javascript Runtime
 - **Express** -  Javascript API Framework
+## Project front-end URL :
+-  (http://john0790-3674-9876.s3-website-us-east-1.amazonaws.com)
 ## Documentation
 - Detailed Documentation is provided in `./Docs/README.md`
 - Screenshots of the AWS configurations and the CircleCI are provided in `./Docs/Screenshots/`
