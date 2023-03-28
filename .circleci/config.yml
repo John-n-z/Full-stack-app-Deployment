@@ -72,6 +72,7 @@ jobs:
             npm run api:install
             npm run frontend:build
             npm run api:build
+            npm run set-eb-env
             npm run deploy
             
 workflows:
